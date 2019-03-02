@@ -1,0 +1,2 @@
+When you install this bot in successfully, you can see the following screen.
+http://i.imgur.com/YggVDmg.gifv
