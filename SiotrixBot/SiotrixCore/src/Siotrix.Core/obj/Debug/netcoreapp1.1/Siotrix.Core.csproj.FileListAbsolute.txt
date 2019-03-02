@@ -1,0 +1,14 @@
+E:\Github\SiotrixCore\src\Siotrix.Core\bin\Debug\netcoreapp1.1\Siotrix.Core.deps.json
+E:\Github\SiotrixCore\src\Siotrix.Core\bin\Debug\netcoreapp1.1\Siotrix.Core.dll
+E:\Github\SiotrixCore\src\Siotrix.Core\bin\Debug\netcoreapp1.1\Siotrix.Core.pdb
+E:\Github\SiotrixCore\src\Siotrix.Core\obj\Debug\netcoreapp1.1\Siotrix.Core.csprojResolveAssemblyReference.cache
+E:\Github\SiotrixCore\src\Siotrix.Core\obj\Debug\netcoreapp1.1\Siotrix.Core.AssemblyInfo.cs
+E:\Github\SiotrixCore\src\Siotrix.Core\obj\Debug\netcoreapp1.1\Siotrix.Core.dll
+E:\Github\SiotrixCore\src\Siotrix.Core\obj\Debug\netcoreapp1.1\Siotrix.Core.pdb
+E:\Github\SiotrixBot\SiotrixCore\src\Siotrix.Core\bin\Debug\netcoreapp1.1\Siotrix.Core.deps.json
+E:\Github\SiotrixBot\SiotrixCore\src\Siotrix.Core\bin\Debug\netcoreapp1.1\Siotrix.Core.dll
+E:\Github\SiotrixBot\SiotrixCore\src\Siotrix.Core\bin\Debug\netcoreapp1.1\Siotrix.Core.pdb
+E:\Github\SiotrixBot\SiotrixCore\src\Siotrix.Core\obj\Debug\netcoreapp1.1\Siotrix.Core.csprojResolveAssemblyReference.cache
+E:\Github\SiotrixBot\SiotrixCore\src\Siotrix.Core\obj\Debug\netcoreapp1.1\Siotrix.Core.AssemblyInfo.cs
+E:\Github\SiotrixBot\SiotrixCore\src\Siotrix.Core\obj\Debug\netcoreapp1.1\Siotrix.Core.dll
+E:\Github\SiotrixBot\SiotrixCore\src\Siotrix.Core\obj\Debug\netcoreapp1.1\Siotrix.Core.pdb

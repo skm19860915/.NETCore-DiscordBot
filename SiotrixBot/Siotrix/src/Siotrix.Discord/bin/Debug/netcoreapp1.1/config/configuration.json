@@ -1,0 +1,27 @@
+{
+  "Tokens": {
+    "Discord": "Mjg1ODEyMzkyOTMwMDUwMDQ4.C5YIkA.Xzx5m7DImyelSG1PGeTcIIdTb6Q",
+    "StackoverflowToken": "BHFpH1TGmFfzQky5sxXwqA(("
+  },
+  "PConfigs": {
+    "Owners": [
+      173905004661309441,
+      285790360804786186
+    ]
+  },
+  "Modules": {
+    "Admin": true,
+    "Audio": true,
+    "Events": true,
+    "Utility": true,
+    "Developer": true,
+    "Moderation": true,
+    "Roslyn": true,
+    "Statistics": true
+  },
+  "Instance": "siotrix",
+  "Server": "localhost",
+  "Port": "3306",
+  "User": "root",
+  "Password": ""
+}

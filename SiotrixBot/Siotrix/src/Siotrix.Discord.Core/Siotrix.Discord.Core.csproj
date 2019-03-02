@@ -1,0 +1,22 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp1.1</TargetFramework>
+    <AssemblyName>Siotrix.Discord.Core</AssemblyName>
+    <RootNamespace>Siotrix.Discord</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Discord.Addons.EmojiTools" Version="2.0.1" />
+    <PackageReference Include="Discord.Addons.InteractiveCommands" Version="1.2.4" />
+    <PackageReference Include="Discord.Net" Version="1.0.1" />
+    <PackageReference Include="ImageSharp" Version="1.0.0-alpha9-00171" />
+    <PackageReference Include="ImageSharp.Drawing" Version="1.0.0-alpha9-00166" />
+    <PackageReference Include="SixLabors.Shapes" Version="0.1.0-alpha0018" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\..\SiotrixCore\src\Siotrix.Core\Siotrix.Core.csproj" />
+  </ItemGroup>
+
+</Project>
